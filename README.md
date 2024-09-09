@@ -1,6 +1,5 @@
 # MMIProject
 
-Technical University of Berlin
 2024SS MMI Final project
 
 ## Purpose
