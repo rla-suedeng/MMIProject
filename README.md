@@ -9,7 +9,7 @@ This main task of the project is to develop own multimodal game as a group by us
 ## Implement
 
 - Turn-based Strategy
-- haptic + Auditory fusion
+- haptic + auditory fusion
 - animation when attacking
 
 In our game, we can attack with Attack button (mouse haptic input) and voice (microphone input).
